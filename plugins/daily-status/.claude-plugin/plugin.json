@@ -1,0 +1,5 @@
+{
+  "name": "daily-status",
+  "version": "1.0.0",
+  "description": "Draft your daily status update from today's git commits and Claude Code / Codex sessions. Summaries only; you review before sharing."
+}

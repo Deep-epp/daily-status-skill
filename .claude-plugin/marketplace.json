@@ -1,0 +1,11 @@
+{
+  "name": "team-tools",
+  "owner": { "name": "Evently Technologies" },
+  "plugins": [
+    {
+      "name": "daily-status",
+      "source": "./plugins/daily-status",
+      "description": "Draft your daily status update (Completed / In progress / Next steps) from git, Claude Code and Codex activity."
+    }
+  ]
+}
